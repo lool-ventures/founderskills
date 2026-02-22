@@ -1,0 +1,11 @@
+{
+  "name": "lool-founder-skills",
+  "owner": {"name": "lool ventures"},
+  "plugins": [
+    {
+      "name": "founder-skills",
+      "source": "./founder-skills",
+      "description": "Skills for startup founders by lool ventures"
+    }
+  ]
+}
